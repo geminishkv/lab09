@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/andrewJA/lab05.svg?branch=master)](https://travis-ci.org/andrewJA/lab05)
-#LAB 4
+[![Build Status](https://travis-ci.org/geminishkv/lab06.svg?branch=master)](https://travis-ci.org/geminishkv/lab06)
+#LAB 6
